@@ -1,0 +1,25 @@
+{
+  "name": "nnpt_ngay5-12",
+  "version": "1.0.0",
+  "description": "",  
+  "main": "node server.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TriItMyName/NNPT_Ngay5-12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TriItMyName/NNPT_Ngay5-12/issues"
+  },
+  "homepage": "https://github.com/TriItMyName/NNPT_Ngay5-12#readme"
+}
