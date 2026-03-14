@@ -6,7 +6,7 @@ const {
   updateRole,
   deleteRole,
   getUsersByRoleId,
-} = require("../controllers/role.controller");
+} = require("../controllers/rolecontroller");
 
 const router = express.Router();
 

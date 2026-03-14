@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
-const Role = require("../models/role.model");
-const User = require("../models/user.model");
+const Role = require("../models/rolemodel");
+const User = require("../models/usermodel");
 
 const handleServerError = (res, error) =>
   res.status(500).json({
